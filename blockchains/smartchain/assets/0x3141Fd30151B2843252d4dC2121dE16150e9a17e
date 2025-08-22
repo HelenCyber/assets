@@ -1,0 +1,11 @@
+{
+"name": "HellyCoin",
+"symbol": "HLY",
+"type": "BEP20",
+"decimals": 18,
+"description": "HellyCoin (HLY) is a community-driven token created for fun, memes, and trust, with a strong water-inspired branding.",
+"website": "https://hellycoin.io",
+"explorer": "https://bscscan.com/token/0x3141Fd30151B2843252d4dC2121dE16150e9a17e",
+"status": "active",
+"id": "0x3141Fd30151B2843252d4dC2121dE16150e9a17e"
+}  
